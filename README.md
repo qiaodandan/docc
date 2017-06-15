@@ -31,6 +31,9 @@ _you **can** combine them_
     * Ask for feedback
     
     
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
     
     
     
