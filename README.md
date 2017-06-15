@@ -23,13 +23,13 @@ _you **can** combine them_
 * Thomas Jefferson
 
 
-1.George Washington
-2.Jone Adams
-3.Thomas Jefferson
+1. George Washington
+2. Jone Adams
+3. Thomas Jefferson
 
 
-1.George Washington
-1.Jone Adams
-1.Thomas Jefferson
+1. George Washington
+1. Jone Adams
+1. Thomas Jefferson
 
 
