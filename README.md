@@ -35,14 +35,14 @@ _you **can** combine them_
 
 
 1. Make my changes
-  1. qiaodan
-  2. luhan
-    * 7777
-2. my my my
-3. changes changes
-  * change
-  * my
-    * make
+  1. Fix bug
+  2. Improve formatting
+    * Make the headings bigger
+2. Push my commits to GitHub
+3. Open a pull request
+  * Describe my changes
+  * Mention all the members of my team
+    * Ask for feedback
     
     
     
